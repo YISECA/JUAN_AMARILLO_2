@@ -20,7 +20,8 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">EXPEDICIÓN A JUAN MARILLO  9 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Ciclopaseo Humedal de Juan Amarillo  Mayo 7 de 2017
+</div>
 
                     </div>
 <br>
@@ -77,8 +78,8 @@
                         <h2>Objetivos</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Generar sentido de pertenecía en los habitantes de la ciudad, visitando lugares de interés poco                   frecuentados por los bogotanos.</li>
-                            <li>Promover el uso de la bicicleta</li>
+                            <li>Generar sentido de pertenecía en los habitantes de la ciudad, visitando lugares de interés poco frecuentados por los bogotanos.</li>
+                            <li>Promover el uso de la bicicleta.</li>
                             <li>Motivar a la practica de la Recreación y actividad física a través de la bicicleta.</li>
                             </font>
                         </ul>
@@ -116,7 +117,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 09 de Abril de 2017</p>
+                                            <p>Domingo 07 de Mayo de 2017</p>
 
                                         </td>
 
@@ -193,12 +194,10 @@
                         <ul class="ul_inicio">
 
                             <font size="3">
-
-                                <li>2 Guardianes de la Ciclovía</li>
                             
-                                <li>2 promotores de la bicicleta </li>
+                                <li>2 promotores de la bicicleta  </li>
 
-                                <li>1 mecánico de bicicletas </li>
+                                <li>1 mecánico de bicicletas  </li>
 
                                 <li>1 Guía ecológico </li>
 
